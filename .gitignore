@@ -1,0 +1,14 @@
+# This repository is a documentation-only portfolio.
+.env
+.env.*
+node_modules/
+src/
+prisma/
+scripts/
+tests/
+uploads/
+backups/
+.local/
+*.dump
+*.backup
+*.log
